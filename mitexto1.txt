@@ -1,2 +1,4 @@
-Hola soy Sebastian Montes y este sera mi primer 
-commit tengo ahora 23 años
+Hola soy sebastian y este sera mi primer 
+commit tengo ahora 22 años
+
+Mañana nos enfocaremos en su vida laboral
