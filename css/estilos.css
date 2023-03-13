@@ -1,6 +1,10 @@
 body
 {
+<<<<<<< HEAD
     color:blue;
+=======
+    color:red;
+>>>>>>> cabecera
     text-align: center;
     font-family: "Arial";
     margin: 0;
@@ -31,5 +35,5 @@ body
 
 #container h1
 {
-    font-size: 50px;
+    font-size: 40px;
 }
